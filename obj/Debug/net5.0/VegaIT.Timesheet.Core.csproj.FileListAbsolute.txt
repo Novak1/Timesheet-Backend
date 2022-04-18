@@ -1,0 +1,12 @@
+E:\Praksa\timesheet\VegaIT.Timesheet\VegaIT.Timesheet.Core\bin\Debug\net5.0\VegaIT.Timesheet.Core.deps.json
+E:\Praksa\timesheet\VegaIT.Timesheet\VegaIT.Timesheet.Core\bin\Debug\net5.0\VegaIT.Timesheet.Core.dll
+E:\Praksa\timesheet\VegaIT.Timesheet\VegaIT.Timesheet.Core\bin\Debug\net5.0\ref\VegaIT.Timesheet.Core.dll
+E:\Praksa\timesheet\VegaIT.Timesheet\VegaIT.Timesheet.Core\bin\Debug\net5.0\VegaIT.Timesheet.Core.pdb
+E:\Praksa\timesheet\VegaIT.Timesheet\VegaIT.Timesheet.Core\obj\Debug\net5.0\VegaIT.Timesheet.Core.csproj.AssemblyReference.cache
+E:\Praksa\timesheet\VegaIT.Timesheet\VegaIT.Timesheet.Core\obj\Debug\net5.0\VegaIT.Timesheet.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Praksa\timesheet\VegaIT.Timesheet\VegaIT.Timesheet.Core\obj\Debug\net5.0\VegaIT.Timesheet.Core.AssemblyInfoInputs.cache
+E:\Praksa\timesheet\VegaIT.Timesheet\VegaIT.Timesheet.Core\obj\Debug\net5.0\VegaIT.Timesheet.Core.AssemblyInfo.cs
+E:\Praksa\timesheet\VegaIT.Timesheet\VegaIT.Timesheet.Core\obj\Debug\net5.0\VegaIT.Timesheet.Core.csproj.CoreCompileInputs.cache
+E:\Praksa\timesheet\VegaIT.Timesheet\VegaIT.Timesheet.Core\obj\Debug\net5.0\VegaIT.Timesheet.Core.dll
+E:\Praksa\timesheet\VegaIT.Timesheet\VegaIT.Timesheet.Core\obj\Debug\net5.0\ref\VegaIT.Timesheet.Core.dll
+E:\Praksa\timesheet\VegaIT.Timesheet\VegaIT.Timesheet.Core\obj\Debug\net5.0\VegaIT.Timesheet.Core.pdb

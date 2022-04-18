@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "VegaIT.Timesheet.Core/1.0.0": {
+        "dependencies": {
+          "CSharpFunctionalExtensions": "2.24.0"
+        },
+        "runtime": {
+          "VegaIT.Timesheet.Core.dll": {}
+        }
+      },
+      "CSharpFunctionalExtensions/2.24.0": {
+        "runtime": {
+          "lib/net5.0/CSharpFunctionalExtensions.dll": {
+            "assemblyVersion": "2.24.0.0",
+            "fileVersion": "2.24.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VegaIT.Timesheet.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSharpFunctionalExtensions/2.24.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-beui99bZQ60j/m9zhGNJgmyJT3TWZr2dBvtRe+Qn9GN/4RsSRBkqxCTzbLwDnymIWScOmxgz/OOrxVule6vLBA==",
+      "path": "csharpfunctionalextensions/2.24.0",
+      "hashPath": "csharpfunctionalextensions.2.24.0.nupkg.sha512"
+    }
+  }
+}
